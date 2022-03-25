@@ -9,8 +9,6 @@
 
 # Preprocessed data can be downloaded from:
 # http://web.stanford.edu/group/poldracklab/myconnectome-data/base/
-# OR via the following link (for manuscript review only):
-# https://www.dropbox.com/s/pq96x5pa7x5q4zn/PoldrackData.zip?dl=0
 
 # START
 
